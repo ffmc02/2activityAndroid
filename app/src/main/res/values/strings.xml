@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DeuxActivité</string>
+    <string name="envoyer">Envoyer</string>
+    <string name="Activitédeux">Seconde Activitée</string>
+    <string name="button_main">button_main</string>
+    <string name="message_re_u">Message reçu</string>
+    <string name="entrez_un_message">Entrez un message</string>
+    <string name="r_pondre_ici">répondre ici</string>
+    <string name="entrez_une_r_ponse">Entrez une réponse</string>
+    <string name="repondre">repondre</string>
+    <string name="entrez_votre_reponse">entrez_votre_reponse</string>
+    <string name="reponse_de_la_2_vue">Reponse de la 2 vue</string>
+    <string name="reponse_de_la_deuxieme_vue">reponse de la deuxieme vue</string>
+</resources>
